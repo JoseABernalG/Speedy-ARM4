@@ -6,4 +6,4 @@ This version already has initial functions used for encryption and decryption an
 
 This board has a STM32L4A6ZG with a speed of 80 MHz and implementation of AES cryptoprocessor, and connectivity via a USB-serial port.
 
-The implementation of Speedy block cipher in C language is ready to be used and can encrypt and decrypt any data block. Besides, the input of data via serial is still in developme
+The implementation of Speedy block cipher in C language is ready to be used and can encrypt and decrypt any data block. Besides, the input of data via serial is still in development.
