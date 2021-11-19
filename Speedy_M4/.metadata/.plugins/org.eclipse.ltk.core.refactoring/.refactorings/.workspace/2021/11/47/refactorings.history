@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Speedy/Core/Src/Functions.c&apos;" deleteContents="false" description="Delete resource &apos;Speedy/Core/Src/Functions.c&apos;" element1="/Speedy/Core/Src/Functions.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1637021601982"/>&#x0A;<refactoring comment="Delete resource &apos;Speedy/Core/Inc/Functions.h&apos;" deleteContents="false" description="Delete resource &apos;Speedy/Core/Inc/Functions.h&apos;" element1="/Speedy/Core/Inc/Functions.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1637021611183"/>
+</session>

@@ -1,0 +1,10 @@
+13:29:08 **** Incremental Build of configuration Debug for project Speedy ****
+make -j36 all 
+arm-none-eabi-size   Speedy.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22948	    120	   2176	  25244	   629c	Speedy.elf
+Finished building: default.size.stdout
+ 
+
+13:29:08 Build Finished. 0 errors, 0 warnings. (took 526ms)
+

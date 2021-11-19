@@ -1,0 +1,17 @@
+Functions.c:60:6:convert_stateuint_to_statechar	64	static
+Functions.c:71:6:convert_statebool_to_statechar	24	static
+Functions.c:81:6:print_state	24	static
+Functions.c:87:6:prepare_round_cons	40	static
+Functions.c:97:6:prepare_round_keys	440	static
+Functions.c:116:6:AK	24	static
+Functions.c:121:6:AC	24	static
+Functions.c:126:6:SB	24	static
+Functions.c:131:6:SBI	24	static
+Functions.c:136:6:MC	96	static
+Functions.c:150:6:MCI	136	static
+Functions.c:164:6:SC	224	static
+Functions.c:179:6:SCI	224	static
+Functions.c:194:6:Encrypt	88	static
+Functions.c:223:6:Decrypt	88	static
+Functions.c:254:6:init_buffer	40	static
+Functions.c:260:6:print_state2	16	static
