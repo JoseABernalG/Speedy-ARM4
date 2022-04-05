@@ -1,0 +1,7 @@
+Fun.c:14:6:bslice	0	static,ignoring_inline_asm
+Fun.c:349:6:sbox	0	static,ignoring_inline_asm
+Fun.c:422:6:shiftcolumns	0	static,ignoring_inline_asm
+Fun.c:434:6:mixcolumns	0	static,ignoring_inline_asm
+Fun.c:486:6:ark	0	static,ignoring_inline_asm
+Fun.c:515:6:lark	0	static,ignoring_inline_asm
+Fun.c:549:6:arc	0	static,ignoring_inline_asm
